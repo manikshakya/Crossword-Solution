@@ -1,0 +1,2 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+/Users/manikshakya/Desktop/Github/[[:space:]]Repository/Crossword-Solution/app/build/intermediates filter=lfs diff=lfs merge=lfs -text
